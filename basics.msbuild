@@ -2,7 +2,7 @@
 
 	<ItemGroup>
          <BuildArtifactsDir Include="BuildArtifacts\" />
-         <SolutionFile Include="C:\CSharpPractice\WebApplication1\WebApplication1.sln" />
+         <SolutionFile Include="https://github.com/amolmm9/JenkinsTest/blob/master/ClassLibrary1/ClassLibrary1.sln" />
        </ItemGroup>
 
        <PropertyGroup>
